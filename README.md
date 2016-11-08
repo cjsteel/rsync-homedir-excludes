@@ -3,7 +3,7 @@
 ## Usage:
 
     # download to `/var/tmp/ignorelist`
-    wget https://raw.githubusercontent.com/rubo77/rsync-homedir-excludes/master/rsync-homedir-excludes.txt -O /var/tmp/ignorelist
+    wget https://raw.githubusercontent.com/cjsteel/rsync-homedir-excludes/master/rsync-homedir-excludes.txt -O /var/tmp/ignorelist
     # or copy to `/var/tmp/ignorelist`
     cp ./rsync-homedir-excludes.txt /var/tmp/ignorelist
 
